@@ -3,8 +3,8 @@ class Tuxgrade < Formula
 
   desc "System upgrade utility for Linux"
   homepage "https://github.com/Lineax17/tuxgrade"
-  url "https://github.com/Lineax17/tuxgrade/archive/refs/tags/3.0.1.tar.gz"
-  sha256 "4fbe58e2aaf555dad7bb1f79b7418801aed60d8ae5c30bea955cb7a95dfb708c"
+  url "https://github.com/Lineax17/tuxgrade/archive/refs/tags/3.1.0.tar.gz"
+  sha256 "f7ae804323da877eb0d2684760a8903ed7d9185d845f2a2efb6d9a49b754f254"
   license "MIT"
 
   livecheck do
